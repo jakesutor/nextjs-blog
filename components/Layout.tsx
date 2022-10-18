@@ -31,9 +31,9 @@ const Layout = ({ children, customMeta }: LayoutProps): JSX.Element => {
           Built by{' '}
           <a
             className="text-gray-900 dark:text-white"
-            href="https://twitter.com/hunterhchang"
+            href="https://linkedin.com/in/jakesutor"
           >
-            Hunter Chang
+            Jake Sutor
           </a>
         </div>
       </footer>
